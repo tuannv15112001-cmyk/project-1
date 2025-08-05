@@ -1,0 +1,22 @@
+{
+    "layer2": {
+        "black": 12222,
+        "blue": 40144,
+        "white": 59153
+    },
+    "layer3": {
+        "black": 15070,
+        "blue": 571,
+        "white": 96515
+    },
+    "layer4": {
+        "black": 55707,
+        "blue": 1826,
+        "white": 53804
+    },
+    "layer5": {
+        "black": 11399,
+        "blue": 171,
+        "white": 98274
+    }
+}

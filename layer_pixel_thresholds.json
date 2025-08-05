@@ -1,0 +1,50 @@
+{
+    "layer2": {
+        "min": {
+            "black": 12163,
+            "blue": 40144,
+            "white": 59153
+        },
+        "max": {
+            "black": 13000,
+            "blue": 42000,
+            "white": 60000
+        }
+    },
+    "layer3": {
+        "min": {
+            "black": 14898,
+            "blue": 517,
+            "white": 95436
+        },
+        "max": {
+            "black": 15070,
+            "blue": 1000,
+            "white": 96515
+        }
+    },
+    "layer4": {
+        "min": {
+            "black": 54357,
+            "blue": 835,
+            "white": 53804
+        },
+        "max": {
+            "black": 55707,
+            "blue": 1826,
+            "white": 58554
+        }
+    },
+    "layer5": {
+        "min": {
+            "black": 11399,
+            "blue": 100,
+            "white": 97704
+        },
+        "max": {
+            "black": 12866,
+            "blue": 171,
+            "white": 98274
+        }
+    }
+}
